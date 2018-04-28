@@ -6,7 +6,7 @@ For the Python TensorFlow implementations, see the [main Magenta repo](https://g
 
 ## Contents
 
-* [Example Applcations](#example-applications)
+* [Example Applications](#example-applications)
 * [Supported Models](#supported-models)
 * [Getting Started](#getting-started)
 * [Model Checkpoints](#model-checkpoints)
